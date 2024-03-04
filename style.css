@@ -160,6 +160,7 @@ p {
 
 .boost-wrapper{
     background: url("images/bg-boost-mobile.svg");
+    padding-bottom: 20px;
 }
 
 h3{
@@ -182,3 +183,22 @@ justify-content: center;
 margin: 0 auto;
 max-width: 150px;
 }
+
+.icons{
+    font-size: 20px;
+    color:white;
+}
+
+.footer-wrapper{
+    background-color:#232027 ;
+    height: 300px;
+   padding-top: 40px;
+}
+
+ul{
+    list-style: none;
+}
+
+li{list-style: none;
+color: #b3b3b7;}
+
